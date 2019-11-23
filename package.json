@@ -1,5 +1,5 @@
 {
-  "name": "rumen-nodejs",
+  "name": "insite-rumen-nodejs",
   "version": "0.3.0",
   "description": "A sample Node.js app using Express 4",
   "engines": {
@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/airdata/airdata.github.io"
+    "url": "https://github.com/airdata/insite"
   },
   "keywords": [
     "node",
     "heroku",
     "express"
   ],
-  "license": "MIT"
+  "license": "APACHE Version 2.0"
 }
